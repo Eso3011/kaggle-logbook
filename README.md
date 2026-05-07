@@ -29,7 +29,7 @@ A record of my data science journey through competitions and projects.
 |---------|------|-------|------|
 | Titanic Survival Prediction | Classification | LR: 0.76315 / RF: 0.74641 | April–May 2026 |
 
-2. Titanic - Machine Learning from Disaster (Model Comparison)
+## 2. Titanic - Machine Learning from Disaster (Model Comparison)
 Date: May 2026
 Type: Binary Classification
 Models Used: Logistic Regression vs Random Forest
